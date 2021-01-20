@@ -11,7 +11,7 @@
 Completed PluralSight course Git Fundamentals.
 
 ### April 19, 2019
-Back in action blogging! [Removing unnecessary using statements](https://medium.com/@JosephHoppe/net-developer-revisits-java-after-a-decade-592e79547d34){:target="_blank" rel="noopener"}. 
+Back in action blogging! [Removing unnecessary using statements](https://medium.com/@JosephHoppe/removing-unnecessary-using-statements-from-a-large-solution-is-a-quick-and-easy-way-to-improve-the-cb672702f0e6){:target="_blank" rel="noopener"}. 
 
 ### Jan 3, 2017
 Wrote my first blog post! [.Net developer revisits Java after a decade](https://medium.com/@JosephHoppe/net-developer-revisits-java-after-a-decade-592e79547d34){:target="_blank" rel="noopener"}
