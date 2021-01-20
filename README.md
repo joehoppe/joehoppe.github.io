@@ -2,6 +2,27 @@
 
 ## Some stuff I've been working on
 
+### June 21, 2019
+http://hoppeuat.azurewebsites.net/: Implemented an Azure Devops CI/CD pipeline to my UAT website.
+
+### May 15, 2019
+Completed PluralSight course Git Fundamentals.
+
+### April 19, 2019
+Back in action blogging! Removing unnecessary using statements. https://medium.com/@JosephHoppe/net-developer-revisits-java-after-a-decade-592e79547d34
+
+### Jan 3, 2017
+Wrote my first blog post! .Net developer revisits Java after a decade. https://medium.com/@JosephHoppe/net-developer-revisits-java-after-a-decade-592e79547d34
+
+### May 1, 2016
+Completed PluralSight course Using Git for Source Control in Visual Studio 2019. https://app.pluralsight.com/library/courses/using-git-source-control-visual-studio/table-of-contents
+
+### April 13, 2016
+Redesigned the site using React-Create-App (React 16).
+
+### October 30, 2016
+Began project to upgrade this site from Angular 1 to 2.
+
 ### September 22, 2016
 www.josephhoppe.com: Implemented a TypeScript outFile for a simple form of cache busting! I.e. "outFile": "./build / build_1.0.001.js".
 www.josephhoppe.com: Upgraded to Angular 1.5.8!
