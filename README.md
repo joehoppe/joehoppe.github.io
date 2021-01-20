@@ -2,6 +2,8 @@
 
 ## Some stuff I've been working on
 
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+
 ### June 21, 2019
 http://hoppeuat.azurewebsites.net/: Implemented an Azure Devops CI/CD pipeline to my UAT website.
 
