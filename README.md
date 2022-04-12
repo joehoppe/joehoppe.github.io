@@ -1,6 +1,4 @@
-# Joseph Hoppe
-
-## Some stuff I've been working on
+# Some stuff I've been working on
 
 ### April 12, 2022
 [My PluralSight activity](https://github.com/joehoppe/joehoppe.github.io/blob/main/PluralSight%20profile%202022.pdf) from May 2019 to April 2022
