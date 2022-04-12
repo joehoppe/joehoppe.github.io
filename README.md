@@ -8,9 +8,6 @@
 ### June 21, 2019
 Implemented an Azure Devops CI/CD pipeline to my [personal UAT website](http://hoppeuat.azurewebsites.net).
 
-### May 15, 2019
-Completed PluralSight course Git Fundamentals.
-
 ### April 19, 2019
 Back in action blogging! [Removing unnecessary using statements](https://medium.com/@JosephHoppe/removing-unnecessary-using-statements-from-a-large-solution-is-a-quick-and-easy-way-to-improve-the-cb672702f0e6). 
 
@@ -83,6 +80,7 @@ Earned 1,000+ reputation on StackOverflow! [My StackOverflow Profile](https://st
 [hoppe.apphb.com](https://hoppe.apphb.com): Redid the site using Bower 1.3 as a package manager!
 
 [hoppe.apphb.com](https://hoppe.apphb.com): Implemented a rough Angular CDN failback mechanism.
+
 Loving the Visual Studio SideWaffle templates!
 
 ### May 22, 2014
@@ -90,6 +88,9 @@ I told my manager that I was learning AngularJS. He asked me to demo what I had 
 
 ### May 21, 2014
 [hoppe.apphb.com](https://hoppe.apphb.com): Launched an AngularJS 1.2 site! Also built on:
+
 MVC 5.1 (MVC was later dropped)
+
 Bootstrap 3
+
 Google Analytics
