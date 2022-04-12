@@ -63,7 +63,7 @@ Wrote my first AngularJS plugin module! Find Angular Errors on Toast on Github.
 [hoppe.apphb.com](https://hoppe.apphb.com): Mocked out this backend using ngMock.
 
 ### November 20, 2014
-I’ve been looking long and hard for great resources for application architects. There appears to be a great shortage. But I did find one good one: highscalability.com. I recommend checking it out. They seem to have great articles on improving performance and designing software.
+I’ve been looking long and hard for great resources for application architects. There appears to be a great shortage. But I did find one good one: [High Scalability](http://highscalability.com). I recommend checking it out. They seem to have great articles on improving performance and designing software.
 
 ### November 7, 2014
 Earned 1,000+ reputation on StackOverflow! [My StackOverflow Profile](https://stackoverflow.com/users/846844/hoppe)
