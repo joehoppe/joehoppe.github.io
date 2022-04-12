@@ -66,7 +66,7 @@ Wrote my first AngularJS plugin module! Find Angular Errors on Toast on Github.
 I’ve been looking long and hard for great resources for application architects. There appears to be a great shortage. But I did find one good one: highscalability.com. I recommend checking it out. They seem to have great articles on improving performance and designing software.
 
 ### November 7, 2014
-Earned 1,000+ reputation on [https://stackoverflow.com/users/846844/hoppe](StackOverflow) today!
+Earned 1,000+ reputation on StackOverflow! [My StackOverflow Profile](https://stackoverflow.com/users/846844/hoppe)
 
 ### October 14, 2014
 [hoppe.apphb.com](https://hoppe.apphb.com): Redid the site using Bower 1.3 as a package manager!
