@@ -7,9 +7,9 @@
 
 ## Some stuff I've been working on
 
-### I've gotten a lot of technical questions on interviews over the years. To help get in the frame of mind, and as a refresher on some concepts, I've been maintaining this [developer interview prep spreadsheet](https://docs.google.com/spreadsheets/d/1DBYbO0fe2HqBWXLBd-lXhVBXevqaq20M3NavlhX0rbI/edit?usp=sharing) over the years
-
 ### April 28, 2022
+I've gotten a lot of technical questions on interviews over the years. To help get in the frame of mind, and as a refresher on some concepts, I've been maintaining this [developer interview prep spreadsheet](https://docs.google.com/spreadsheets/d/1DBYbO0fe2HqBWXLBd-lXhVBXevqaq20M3NavlhX0rbI/edit?usp=sharing) over the years
+
 Completed watching [PluralSight: Node.js 12: The Big Picture](https://app.pluralsight.com/library/courses/nodejs-big-picture/table-of-contents). Good refresher on the architecture of NodeJS and it's current state.
 
 ### April 12, 2022
