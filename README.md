@@ -8,7 +8,7 @@
 ## Some stuff I've been working on
 
 ### April 28, 2022
-Watched [PluralSight: Node.js 12: The Big Picture](https://app.pluralsight.com/library/courses/nodejs-big-picture/table-of-contents)
+Completed watching [PluralSight: Node.js 12: The Big Picture](https://app.pluralsight.com/library/courses/nodejs-big-picture/table-of-contents). Good refresher on the architecture of NodeJS and it's current state.
 
 ### April 12, 2022
 [My PluralSight activity](https://github.com/joehoppe/joehoppe.github.io/blob/main/PluralSight%20profile%202022.pdf) from May 2019 to April 2022
