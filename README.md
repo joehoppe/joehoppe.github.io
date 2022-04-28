@@ -1,9 +1,14 @@
 # Places to find me on the internet:
 * [My LinkedIn Profile](https://www.linkedin.com/in/josephhoppe)
-* [My StackOverflow Profile](https://stackoverflow.com/users/846844/hoppe) (6100+ reputation as of Apr 2022)
 * [My GitHub Profile](https://github.com/joehoppe)
+* StackOverflow:
+
+<a href="https://stackoverflow.com/users/846844/hoppe"><img src="https://stackoverflow.com/users/flair/846844.png" width="208" height="58" alt="profile for Joe Hoppe at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Joe Hoppe at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ## Some stuff I've been working on
+
+### April 28, 2022
+Watched [PluralSight: Node.js 12: The Big Picture](https://app.pluralsight.com/library/courses/nodejs-big-picture/table-of-contents)
 
 ### April 12, 2022
 [My PluralSight activity](https://github.com/joehoppe/joehoppe.github.io/blob/main/PluralSight%20profile%202022.pdf) from May 2019 to April 2022
