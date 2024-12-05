@@ -1,7 +1,9 @@
 # Places to find me on the internet
 
 * [My LinkedIn Profile](https://www.linkedin.com/in/josephhoppe)
+
 * [My GitHub Profile](https://github.com/joehoppe)
+
 * StackOverflow:
 
 <a href="https://stackoverflow.com/users/846844/hoppe"><img src="https://stackoverflow.com/users/flair/846844.png" width="208" height="58" alt="profile for Joe Hoppe at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Joe Hoppe at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
