@@ -1,9 +1,11 @@
 # Places to find me on the internet
+
 * [My LinkedIn Profile](https://www.linkedin.com/in/josephhoppe)
 * [My GitHub Profile](https://github.com/joehoppe)
 * StackOverflow:
 
 <a href="https://stackoverflow.com/users/846844/hoppe"><img src="https://stackoverflow.com/users/flair/846844.png" width="208" height="58" alt="profile for Joe Hoppe at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Joe Hoppe at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 * I enjoy PluralSight video training. To see the courses I've been studying each month, please take a look at [my PluralSight profile](https://app.pluralsight.com/profile/joseph-hoppe-23).
 * IMO, The industry overly relies on coding challenges. I try to keep my coding challenge skills up to date every month or two. Please see my [My LeetCode profile](https://leetcode.com/u/jhoppe/) for some examples of my work.
 
@@ -14,12 +16,14 @@ I've spent a lot of time on PluralSight video training. Please take a look at [m
 
 ### 2022-2023
 Studied:
+
 * [AWS Cloud Development Kit: The Big Picture AWS Cloud Development Kit (CDK): The Big Picture](https://app.pluralsight.com/library/courses/aws-cloud-development-kit-big-picture/table-of-contents)
 * [Introduction to Amazon CloudWatch](https://app.pluralsight.com/course-player?clipId=e6b5ca66-5f96-431f-97a9-318a2f273883)
 * [Utilizing Amazon Eventbridge in Serverless Applications](https://app.pluralsight.com/library/courses/utilizing-amazon-eventbridge-serverless-applications/table-of-contents)
 * [Introduction to the Amazon Simple Workflow](https://app.pluralsight.com/library/courses/introduction-amazon-simple-workflow/table-of-contents)
 
 Reltio Master Data Management Courses (learn.reltio.com):
+
 * Graph Search
 * Data Export using the Export API
 * Reltio Configuration Fundamentals
