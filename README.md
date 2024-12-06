@@ -5,7 +5,8 @@
 * StackOverflow:
 
 <a href="https://stackoverflow.com/users/846844/hoppe"><img src="https://stackoverflow.com/users/flair/846844.png" width="208" height="58" alt="profile for Joe Hoppe at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Joe Hoppe at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-* [My PluralSight profile](https://app.pluralsight.com/profile/joseph-hoppe-23). See current and completed courses in particular
+
+* [My PluralSight profile](https://app.pluralsight.com/profile/joseph-hoppe-23)
 * [My LeetCode profile](https://leetcode.com/u/jhoppe/)
 
 ## Some stuff I've been working on
