@@ -1,20 +1,17 @@
 # Places to find me on the internet
 
 * [My LinkedIn Profile](https://www.linkedin.com/in/josephhoppe)
-
 * [My GitHub Profile](https://github.com/joehoppe)
-
 * StackOverflow:
 
 <a href="https://stackoverflow.com/users/846844/hoppe"><img src="https://stackoverflow.com/users/flair/846844.png" width="208" height="58" alt="profile for Joe Hoppe at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Joe Hoppe at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
-* I enjoy PluralSight video training. To see the courses I've been studying each month, please take a look at [my PluralSight profile](https://app.pluralsight.com/profile/joseph-hoppe-23).
-* IMO, The industry overly relies on coding challenges. I try to keep my coding challenge skills up to date every month or two. Please see my [My LeetCode profile](https://leetcode.com/u/jhoppe/) for some examples of my work.
+* [My PluralSight profile](https://app.pluralsight.com/profile/joseph-hoppe-23). See current and completed courses in particular
+* [My LeetCode profile](https://leetcode.com/u/jhoppe/)
 
 ## Some stuff I've been working on
 
 ### 2024
-I've spent a lot of time on PluralSight video training. Please take a look at [my PluralSight profile](https://app.pluralsight.com/profile/joseph-hoppe-23) for more info.
+I've spent a lot of time on PluralSight video training and LeetCode algorithm challenges. Please take a look at [my PluralSight profile](https://app.pluralsight.com/profile/joseph-hoppe-23) for more info and at [My LeetCode profile](https://leetcode.com/u/jhoppe/).
 
 ### 2022-2023
 Studied:
