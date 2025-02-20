@@ -13,7 +13,7 @@
 
 ### 2025
 
-On a whim, I decided to take the most recent JavaScript quiz on PluralSight, which was JavaScript ES6/2015. Received an expert rating! ![Alt text](PluralSightES6.png)
+Accidentally took the the ES6/2015 version of the PluralSite JavaScript Self Assessment. Received an expert rating! ![Alt text](PluralSightES6.png)
 
 ### 2024
 
