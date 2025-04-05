@@ -11,7 +11,8 @@
 * [My Medium Blog](https://medium.com/@JosephHoppe)
 * [My DEV Blog](https://dev.to/joehoppe)
 
-## Some stuff I've been working on
+
+## PluralSight Skills Assessments
 
 ### April 2025
 
@@ -24,6 +25,14 @@ Took the PluralSight JavaScript Skills Assessment
 Accidentally took the the ES6/2015 version of the PluralSite JavaScript Self Assessment, instead of the most recent
 
 [![Alt text](PluralSightJS2015.png)](https://app.pluralsight.com/profile/joseph-hoppe-23)
+
+## Certifications
+
+### November 2021
+
+[![Alt text](AZ-900.png)](https://www.credly.com/badges/02a09a00-d05a-4722-8e4a-1c17f270747f)
+
+## Some stuff I've been working on
 
 ### 2024
 
