@@ -6,16 +6,24 @@
 
 <a href="https://stackoverflow.com/users/846844/hoppe"><img src="https://stackoverflow.com/users/flair/846844.png" width="208" height="58" alt="profile for Joe Hoppe at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Joe Hoppe at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-* [My PluralSight profile](https://app.pluralsight.com/profile/joseph-hoppe-23)
 * [My LeetCode profile](https://leetcode.com/u/jhoppe/)
+* [My PluralSight profile](https://app.pluralsight.com/profile/joseph-hoppe-23)
+* [My Medium Blog](https://medium.com/@JosephHoppe)
+* [My DEV Blog](https://dev.to/joehoppe)
 
 ## Some stuff I've been working on
 
-<!-- ### 2025
+### April 2025
 
-Accidentally took the the ES6/2015 version of the PluralSite JavaScript Self Assessment. Received an expert rating!
+Took the PluralSight JavaScript Skills Assessment
 
-![Alt text](PluralSightES6.png) -->
+![Alt text](PluralSightJS2025.png)
+
+### January 2025
+
+Accidentally took the the ES6/2015 version of the PluralSite JavaScript Self Assessment, instead of the most recent
+
+![Alt text](PluralSightJS2015.png)
 
 ### 2024
 
