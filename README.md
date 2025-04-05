@@ -17,13 +17,13 @@
 
 Took the PluralSight JavaScript Skills Assessment
 
-![Alt text](PluralSightJS2025.png)
+[![Alt text](PluralSightJS2025.png)](https://app.pluralsight.com/profile/joseph-hoppe-23)
 
 ### January 2025
 
 Accidentally took the the ES6/2015 version of the PluralSite JavaScript Self Assessment, instead of the most recent
 
-![Alt text](PluralSightJS2015.png)
+[![Alt text](PluralSightJS2015.png)](https://app.pluralsight.com/profile/joseph-hoppe-23)
 
 ### 2024
 
