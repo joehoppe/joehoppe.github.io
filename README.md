@@ -14,8 +14,8 @@
 * [Medium](https://medium.com/@JosephHoppe)
 * [DEV Blog](https://dev.to/joehoppe)
 
-    </div>
-</section>
+  </section>
+</div>
 <section>
 
 # Recent Activity
