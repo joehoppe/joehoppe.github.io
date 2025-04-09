@@ -1,16 +1,24 @@
-# Places to find me on the internet
+<div class="container">
+  <section class="right-content">
 
-* [My LinkedIn Profile](https://www.linkedin.com/in/josephhoppe)
-* [My GitHub Profile](https://github.com/joehoppe)
+## Internet Profiles
+
+* [LinkedIn](https://www.linkedin.com/in/josephhoppe)
+* [GitHub](https://github.com/joehoppe)
+* [LeetCode](https://leetcode.com/u/jhoppe/)
+* [PluralSight](https://app.pluralsight.com/profile/joseph-hoppe-23)
 * StackOverflow:
 
 <a href="https://stackoverflow.com/users/846844/hoppe"><img src="https://stackoverflow.com/users/flair/846844.png" width="208" height="58" alt="profile for Joe Hoppe at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Joe Hoppe at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-* [My LeetCode profile](https://leetcode.com/u/jhoppe/)
-* [My PluralSight profile](https://app.pluralsight.com/profile/joseph-hoppe-23)
-* [My Medium Blog](https://medium.com/@JosephHoppe)
-* [My DEV Blog](https://dev.to/joehoppe)
+* [Medium](https://medium.com/@JosephHoppe)
+* [DEV Blog](https://dev.to/joehoppe)
 
+  </section>
+</div>
+<section>
+
+# Recent Activity
 
 ## PluralSight Skills Assessments
 
@@ -145,3 +153,4 @@ Launched an AngularJS 1.2 site! Also built on:
 * MVC 5.1 (MVC was later dropped)
 * Bootstrap 3
 * Google Analytics
+</section>
