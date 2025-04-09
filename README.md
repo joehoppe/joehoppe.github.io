@@ -1,7 +1,4 @@
-<div class="container">
-  <section class="right-content">
-
-## Internet Profiles
+# Internet Profiles
 
 * [LinkedIn](https://www.linkedin.com/in/josephhoppe)
 * [GitHub](https://github.com/joehoppe)
@@ -14,11 +11,7 @@
 * [Medium](https://medium.com/@JosephHoppe)
 * [DEV Blog](https://dev.to/joehoppe)
 
-  </section>
-</div>
-<section>
-
-# Recent Activity
+## Recent Activity
 
 ## PluralSight Skills Assessments
 
@@ -153,4 +146,3 @@ Launched an AngularJS 1.2 site! Also built on:
 * MVC 5.1 (MVC was later dropped)
 * Bootstrap 3
 * Google Analytics
-</section>
