@@ -1,4 +1,4 @@
-# 👋 Welcome to Joe Hoppe's Developer Portfolio
+# Welcome to my Developer Portfolio
 
 ---
 
