@@ -1,39 +1,45 @@
-# Internet Profiles
+# 👋 Welcome to Joe Hoppe's Developer Portfolio
 
-* [LinkedIn](https://www.linkedin.com/in/josephhoppe)
-* [GitHub](https://github.com/joehoppe)
-* [LeetCode](https://leetcode.com/u/jhoppe/)
-* [PluralSight](https://app.pluralsight.com/profile/joseph-hoppe-23)
-* StackOverflow:
+---
 
-<a href="https://stackoverflow.com/users/846844/hoppe"><img src="https://stackoverflow.com/users/flair/846844.png" width="208" height="58" alt="profile for Joe Hoppe at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Joe Hoppe at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+## 🌐 Internet Profiles
 
-* [Medium](https://medium.com/@JosephHoppe)
-* [DEV Blog](https://dev.to/joehoppe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/josephhoppe)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/joehoppe)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/u/jhoppe/)
+[![PluralSight](https://img.shields.io/badge/PluralSight-red?logo=pluralsight)](https://app.pluralsight.com/profile/joseph-hoppe-23)
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium)](https://medium.com/@JosephHoppe)
+[![DEV Blog](https://img.shields.io/badge/DEV.to-black?logo=dev.to)](https://dev.to/joehoppe)
 
-## Recent Activity
+**StackOverflow:**  
+<a href="https://stackoverflow.com/users/846844/hoppe"><img src="https://stackoverflow.com/users/flair/846844.png" width="208" height="58" alt="profile for Joe Hoppe at Stack Overflow"></a>
 
-## PluralSight Skills Assessments
+---
 
-### April 2025
+## 📝 Recent Activity
 
-Took the PluralSight JavaScript Skills Assessment
+> _Check out my latest skills assessments, certifications, and projects below!_
 
-[![Alt text](PluralSightJS2025.png)](https://app.pluralsight.com/profile/joseph-hoppe-23)
+---
 
-### January 2025
+## 🏆 PluralSight Skills Assessments
 
-Accidentally took the the ES6/2015 version of the PluralSite JavaScript Self Assessment, instead of the most recent
+| Date        | Assessment                                      | Badge/Result |
+|-------------|-------------------------------------------------|--------------|
+| **Apr 2025**| JavaScript Skills Assessment                    | [![JS 2025](PluralSightJS2025.png)](https://app.pluralsight.com/profile/joseph-hoppe-23) |
+| **Jan 2025**| ES6/2015 JavaScript Self Assessment (accidental)| [![JS 2015](PluralSightJS2015.png)](https://app.pluralsight.com/profile/joseph-hoppe-23) |
 
-[![Alt text](PluralSightJS2015.png)](https://app.pluralsight.com/profile/joseph-hoppe-23)
+---
 
-## Certifications
+## 🎓 Certifications
 
-### November 2021
+| Date           | Certification         | Badge/Link |
+|----------------|----------------------|------------|
+| **Nov 2021**   | Microsoft AZ-900     | [![AZ-900](AZ-900.png)](https://www.credly.com/badges/02a09a00-d05a-4722-8e4a-1c17f270747f) |
 
-[![Alt text](AZ-900.png)](https://www.credly.com/badges/02a09a00-d05a-4722-8e4a-1c17f270747f)
+---
 
-## Some stuff I've been working on
+## 💼 Some stuff I've been working on
 
 ### 2024
 
