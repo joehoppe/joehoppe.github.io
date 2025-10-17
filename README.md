@@ -37,49 +37,38 @@
 
 ## 💼 Some stuff I've been working on
 
+### 2025
 
-### July 23, 2025
+Blog Post: [Neural Networks: Developing a Really Simple Neuron in TypeScript](https://dev.to/joehoppe/neural-networks-developing-a-really-simple-neuron-in-typescript-4fc1)
 
-[Neural Networks: Developing a Really Simple Neuron in TypeScript](https://dev.to/joehoppe/neural-networks-developing-a-really-simple-neuron-in-typescript-4fc1)
+Blog Post: [Building a Universal Language Translator with Python and LangChain](https://dev.to/joehoppe/building-a-universal-language-translator-with-python-and-langchain-212h)
 
-### July 12, 2025
+Blog Post: [Fixing VPN and VPC Connectivity Issues with T-Mobile Home Internet](https://dev.to/joehoppe/fixing-vpn-and-vpc-connectivity-issues-with-t-mobile-home-internet-4gn1)
 
-[Building a Universal Language Translator with Python and LangChain](https://dev.to/joehoppe/building-a-universal-language-translator-with-python-and-langchain-212h)
+### 2024
 
-### Jun 7, 2025
+Blog Post: [Don't code a new website for your blog](https://dev.to/joehoppe/dont-code-a-new-website-for-your-blog-3epb)
 
-[Fixing VPN and VPC Connectivity Issues with T-Mobile Home Internet](https://dev.to/joehoppe/fixing-vpn-and-vpc-connectivity-issues-with-t-mobile-home-internet-4gn1)
+Blog Post: [AWS — Properly delete messages between Lambdas and SQS Queues](https://dev.to/joehoppe/aws-properly-delete-messages-between-lambdas-and-sqs-queues-41md)
 
-### Dec 9, 2025
+### 2023
 
-[Don't code a new website for your blog](https://dev.to/joehoppe/dont-code-a-new-website-for-your-blog-3epb)
+Blog Post: [Overcoming Keyboard Wrist Pain](https://medium.com/@JosephHoppe/overcoming-keyboard-wrist-pain-9b9cfa3ffbdf)
 
-### May 6, 2024
+Blog Post: [The free tier of GitHub Codespaces permanently changed my workflows as a developer](https://medium.com/@JosephHoppe/how-the-free-tier-of-github-codespaces-permanently-changed-my-workflows-as-a-developer-b85d61af983b)
 
-[AWS — Properly delete messages between Lambdas and SQS Queues](https://dev.to/joehoppe/aws-properly-delete-messages-between-lambdas-and-sqs-queues-41md)
-
-### Dec 30, 2023
-
-[Overcoming Keyboard Wrist Pain](https://medium.com/@JosephHoppe/overcoming-keyboard-wrist-pain-9b9cfa3ffbdf)
-
-### Dec 2, 2023
-
-[The free tier of GitHub Codespaces permanently changed my workflows as a developer](https://medium.com/@JosephHoppe/how-the-free-tier-of-github-codespaces-permanently-changed-my-workflows-as-a-developer-b85d61af983b)
-
-### Aug 4, 2023
-
-[State of Linting in TypeScript: August 2023](https://medium.com/@JosephHoppe/state-of-linting-in-typescript-august-2023-551a99e0b3b3)
+Blog Post: [State of Linting in TypeScript: August 2023](https://medium.com/@JosephHoppe/state-of-linting-in-typescript-august-2023-551a99e0b3b3)
 
 I've gotten a lot of technical questions on interviews over the years. To help get in the frame of mind, and as a refresher on some concepts, I've been maintaining this [developer interview prep spreadsheet](https://docs.google.com/spreadsheets/d/1DBYbO0fe2HqBWXLBd-lXhVBXevqaq20M3NavlhX0rbI/edit?usp=sharing) over the years
 
-### April 12, 2022
+### 2022
 
 [My PluralSight activity](https://github.com/joehoppe/joehoppe.github.io/blob/main/PluralSight%20profile%202022.pdf) was under a different account from May 2019 to April 2022. See linked file for list of courses taken.
 
-### Apr 19, 2019
+### 2019
 
 [Removing unnecessary using statements from a large solution is a quick and easy way to improve build time... right?](https://medium.com/@JosephHoppe/removing-unnecessary-using-statements-from-a-large-solution-is-a-quick-and-easy-way-to-improve-the-cb672702f0e6)
 
-### Jan 3, 2017
+### 2017
 
-[.Net developer revisits Java after a decade](https://medium.com/@JosephHoppe/net-developer-revisits-java-after-a-decade-592e79547d34)
+Blog Post: [.Net developer revisits Java after a decade](https://medium.com/@JosephHoppe/net-developer-revisits-java-after-a-decade-592e79547d34)
