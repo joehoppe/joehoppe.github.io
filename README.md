@@ -1,4 +1,4 @@
-## 🌐 Joe Hoppe — developer, writer, learner
+## Leader, developer, writer
 
 > Short personal hub: blog posts, skills badges, and links to my profiles.
 
