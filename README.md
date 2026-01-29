@@ -30,6 +30,11 @@
 
 ---
 
+### 2026
+
+- [When you're scheduled to go on your first international business trip to India on February 29](https://dev.to/joehoppe/when-youre-scheduled-to-go-on-your-first-international-business-trip-to-india-on-february-29-4i7j) — dev.to article
+- [How will AI affect the cost of software development in 2026?](https://dev.to/joehoppe/how-will-ai-affect-the-cost-of-software-development-in-2026-a22) — dev.to article
+
 ### 2025
 
 - [Neural Networks: Developing a Really Simple Neuron in TypeScript](https://dev.to/joehoppe/neural-networks-developing-a-really-simple-neuron-in-typescript-4fc1) — dev.to article
