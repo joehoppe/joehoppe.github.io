@@ -52,7 +52,7 @@
 - [Overcoming Keyboard Wrist Pain](https://medium.com/@JosephHoppe/overcoming-keyboard-wrist-pain-9b9cfa3ffbdf) — Medium article
 - [The free tier of GitHub Codespaces permanently changed my workflows as a developer](https://medium.com/@JosephHoppe/how-the-free-tier-of-github-codespaces-permanently-changed-my-workflows-as-a-developer-b85d61af983b) — Medium article
 - [State of Linting in TypeScript: August 2023](https://medium.com/@JosephHoppe/state-of-linting-in-typescript-august-2023-551a99e0b3b3) — Medium article
-- [I put togther a developer interview prep spreadsheet (public) for practicing common questions and exercises](https://docs.google.com/spreadsheets/d/1DBYbO0fe2HqBWXLBd-lXhVBXevqaq20M3NavlhX0rbI/edit?usp=sharing) - Spreadsheet
+- [I put together a developer interview prep spreadsheet (public) for practicing common questions and exercises](https://docs.google.com/spreadsheets/d/1DBYbO0fe2HqBWXLBd-lXhVBXevqaq20M3NavlhX0rbI/edit?usp=sharing) - Spreadsheet
 
 
 ### Older highlights
