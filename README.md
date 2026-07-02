@@ -32,7 +32,7 @@
 
 ### 2026
 
-- [When you're scheduled to go on your first international business trip to India on February 29](https://dev.to/joehoppe/when-youre-scheduled-to-go-on-your-first-international-business-trip-to-india-on-february-29-4i7j) — dev.to article
+- [When you're scheduled to go on your first international business trip to India on February 29, 2020](https://dev.to/joehoppe/when-youre-scheduled-to-go-on-your-first-international-business-trip-to-india-on-february-29-4i7j) — dev.to article
 - [How will AI affect the cost of software development in 2026?](https://dev.to/joehoppe/how-will-ai-affect-the-cost-of-software-development-in-2026-a22) — dev.to article
 
 ### 2025
@@ -61,18 +61,17 @@
 - [Removing unnecessary using statements from a large solution](https://medium.com/@JosephHoppe/removing-unnecessary-using-statements-from-a-large-solution-is-a-quick-and-easy-way-to-improve-the-cb672702f0e6) — Medium article
 - [.Net developer revisits Java after a decade](https://medium.com/@JosephHoppe/net-developer-revisits-java-after-a-decade-592e79547d34) — Medium article
 
-## Solved LeetCode Problems
+## 🧩 Algorithm & Data Structure Practice
 
 [My LeetCode Profile](https://leetcode.com/u/jhoppe/). List below last updated: May 2026.
 
 | Date         | Problem |
 |--------------|---------|
-| Apr 2026     | [2894. Divisible and Non-divisible Sums Difference](https://leetcode.com/submissions/detail/1966243734/) |
-| Mar 2026     | [2423. Remove Letter To Equalize Frequency](https://leetcode.com/submissions/detail/1936055452/) |
-| Feb 2026     | [2703. Return Length of Arguments Passed](https://leetcode.com/submissions/detail/1932142101/) |
-| Feb 2026     | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/submissions/detail/1918351405/) |
-| Feb 2026     | [1480. Running Sum of 1d Array](https://leetcode.com/submissions/detail/1917511615/) |
-| Jul 2025     | [88. Merge Sorted Array](https://leetcode.com/submissions/detail/1711048072/) |
+| Apr 2026     | 2894. Divisible and Non-divisible Sums Difference     |
+| Mar 2026     | 2423. Remove Letter To Equalize Frequency |
+| Feb 2026     | 28. Find the Index of the First Occurrence in a String    |
+| Feb 2026     | 1480. Running Sum of 1d Array |
+| Jul 2025     | 88. Merge Sorted Array |
 | May 2025     | 844. Backspace String Compare |
 | Apr 2025     | 11. Container With Most Water |
 | Mar 2025     | 1805. Number of Different Integers in a String |
@@ -90,15 +89,10 @@
 | Mar 2023     | 20. Valid Parentheses |
 | Feb 2023     | 231. Power of Two |
 | Jan 2023     | 14. Longest Common Prefix |
-| Jan 2023     | 1108. Defanging an IP Address |
-| Jan 2023     | 2469. Convert the Temperature |
-| Dec 2022     | 1920. Build Array from Permutation |
 | Oct 2022     | 13. Roman to Integer |
-| Sep 2022     | 1929. Concatenation of Array |
 | Jul 2022     | 1. Two Sum |
 | Jun 2022     | 9. Palindrome Number |
 | Jun 2022     | 938. Range Sum of BST |
-| Jun 2022     | 2235. Add Two Integers |
 | May 2022     | 1476. Subrectangle Queries |
 | May 2022     | 905. Sort Array By Parity |
 
