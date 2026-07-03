@@ -61,7 +61,7 @@
 - [Removing unnecessary using statements from a large solution](https://medium.com/@JosephHoppe/removing-unnecessary-using-statements-from-a-large-solution-is-a-quick-and-easy-way-to-improve-the-cb672702f0e6) — Medium article
 - [.Net developer revisits Java after a decade](https://medium.com/@JosephHoppe/net-developer-revisits-java-after-a-decade-592e79547d34) — Medium article
 
-## 🧩 Algorithm & Data Structure Practice
+## 🧩 Notable Algorithm & Data Structure Practice
 
 [My LeetCode Profile](https://leetcode.com/u/jhoppe/). List below last updated: May 2026.
 
