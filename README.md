@@ -24,9 +24,9 @@
 
 | Date        | Certification/Assessment                                      | Badge/Result |
 |-------------|-------------------------------------------------|--------------|
-| **Apr 2025**| JavaScript Skills Assessment                    | [![JS 2025](PluralSightJS2025.png)](https://app.pluralsight.com/profile/joseph-hoppe-23) |
-| **Jan 2025**| ES6/2015 JavaScript Self Assessment| [![JS 2015](PluralSightJS2015.png)](https://app.pluralsight.com/profile/joseph-hoppe-23) |
-| **Nov 2021**   | Microsoft AZ-900     | [![AZ-900](AZ-900.png)](https://www.credly.com/badges/02a09a00-d05a-4722-8e4a-1c17f270747f) |
+| **Apr 2025**| JavaScript Skills Assessment                    | [![JS 2025](PluralSightJS2025.png){: width="300px"}](https://app.pluralsight.com/profile/joseph-hoppe-23) |
+| **Jan 2025**| ES6/2015 JavaScript Self Assessment| [![JS 2015](PluralSightJS2015.png){: width="300px"}](https://app.pluralsight.com/profile/joseph-hoppe-23) |
+| **Nov 2021**   | Microsoft AZ-900     | [![AZ-900](AZ-900.png){: width="150px"}](https://www.credly.com/badges/02a09a00-d05a-4722-8e4a-1c17f270747f) |
 
 ---
 
