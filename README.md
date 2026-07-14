@@ -1,4 +1,4 @@
-## Leader, developer, writer
+## Backend Developer
 
 > Short personal hub: blog posts, skills badges, and links to my profiles.
 
@@ -60,39 +60,3 @@
 - [PluralSight activity (2019–2022)](https://github.com/joehoppe/joehoppe.github.io/blob/main/PluralSight%20profile%202022.pdf) — PDF
 - [Removing unnecessary using statements from a large solution](https://medium.com/@JosephHoppe/removing-unnecessary-using-statements-from-a-large-solution-is-a-quick-and-easy-way-to-improve-the-cb672702f0e6) — Medium article
 - [.Net developer revisits Java after a decade](https://medium.com/@JosephHoppe/net-developer-revisits-java-after-a-decade-592e79547d34) — Medium article
-
-## 🧩 Notable Algorithm & Data Structure Practice
-
-[My LeetCode Profile](https://leetcode.com/u/jhoppe/). List below last updated: May 2026.
-
-| Date         | Problem |
-|--------------|---------|
-| Apr 2026     | 2894. Divisible and Non-divisible Sums Difference     |
-| Mar 2026     | 2423. Remove Letter To Equalize Frequency |
-| Feb 2026     | 28. Find the Index of the First Occurrence in a String    |
-| Feb 2026     | 1480. Running Sum of 1d Array |
-| Jul 2025     | 88. Merge Sorted Array |
-| May 2025     | 844. Backspace String Compare |
-| Apr 2025     | 11. Container With Most Water |
-| Mar 2025     | 1805. Number of Different Integers in a String |
-| Feb 2025     | 2181. Merge Nodes in Between Zeros |
-| Jan 2025     | 78. Subsets |
-| Dec 2024     | 1249. Minimum Remove to Make Valid Parentheses |
-| Sep 2024     | 2807. Insert Greatest Common Divisors in Linked List |
-| Jun 2024     | 1232. Check If It Is a Straight Line |
-| Apr 2024     | 2785. Sort Vowels in a String |
-| Apr 2024     | 535. Encode and Decode TinyURL |
-| Dec 2023     | 2525. Categorize Box According to Criteria |
-| Sep 2023     | 118. Pascal's Triangle |
-| Jun 2023     | 1828. Queries on Number of Points Inside a Circle |
-| May 2023     | 225. Implement Stack using Queues |
-| Mar 2023     | 20. Valid Parentheses |
-| Feb 2023     | 231. Power of Two |
-| Jan 2023     | 14. Longest Common Prefix |
-| Oct 2022     | 13. Roman to Integer |
-| Jul 2022     | 1. Two Sum |
-| Jun 2022     | 9. Palindrome Number |
-| Jun 2022     | 938. Range Sum of BST |
-| May 2022     | 1476. Subrectangle Queries |
-| May 2022     | 905. Sort Array By Parity |
-
