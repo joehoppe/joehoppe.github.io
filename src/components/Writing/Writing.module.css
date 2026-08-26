@@ -1,0 +1,23 @@
+.writing {
+  margin-bottom: 3rem;
+}
+
+.yearGroup {
+  margin-bottom: 1.5rem;
+}
+
+.yearGroup h3 {
+  color: #b0b0b0;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.yearGroup ul {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.yearGroup li {
+  margin-bottom: 0.4rem;
+}
