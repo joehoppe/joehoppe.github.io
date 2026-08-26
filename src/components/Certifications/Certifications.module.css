@@ -4,6 +4,7 @@
 
 .table {
   width: 100%;
+  table-layout: fixed;
   border-collapse: collapse;
 }
 
@@ -13,10 +14,21 @@
   padding: 0.5rem;
   border-bottom: 1px solid #333;
   vertical-align: middle;
+  overflow-wrap: break-word;
+}
+
+.table th:nth-child(1),
+.table td:nth-child(1) {
+  width: 20%;
+}
+
+.table th:nth-child(2),
+.table td:nth-child(2) {
+  width: 45%;
 }
 
 .badgeCell {
-  width: 1%;
+  width: 35%;
 }
 
 .badge {
