@@ -1,7 +1,17 @@
+import { Nav } from './components/Nav/Nav';
+import { Bio } from './components/Bio/Bio';
+import { Certifications } from './components/Certifications/Certifications';
+import { Writing } from './components/Writing/Writing';
+
 export default function App() {
   return (
-    <div id="app-shell">
-      <h1>Backend Developer</h1>
-    </div>
+    <>
+      <Nav />
+      <main>
+        <Bio />
+        <Certifications />
+        <Writing />
+      </main>
+    </>
   );
 }
