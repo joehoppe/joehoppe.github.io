@@ -20,12 +20,14 @@ npm run dev       # start local dev server
 npm run build     # production build to dist/
 npm run preview   # preview the production build locally
 npm test          # run the smoke test suite
+npm run test:coverage  # run tests with coverage reporting
 ```
 
 ## Deployment
 
-Pushing to `main` triggers `.github/workflows/deploy.yml`, which builds the
-site and publishes `dist/` to GitHub Pages.
+`.github/workflows/deploy.yml` runs on both pull requests and pushes to `main`.
+On PRs, it runs tests and posts a coverage report; build and deploy are skipped.
+On push to `main`, tests must pass before the site builds and deploys to GitHub Pages.
 
 ## Content
 
