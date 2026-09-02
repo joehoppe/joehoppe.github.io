@@ -1,5 +1,9 @@
 .writing {
-  margin-bottom: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+.writing h2 {
+  margin-bottom: 1rem;
 }
 
 .yearGroup {
@@ -11,6 +15,7 @@
   font-size: 1rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
+  margin-bottom: 0.5rem;
 }
 
 .yearGroup ul {

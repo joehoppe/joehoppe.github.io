@@ -1,5 +1,9 @@
 .bio {
-  margin-bottom: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+.bio h1 {
+  margin-bottom: 0.5rem;
 }
 
 .tagline {
@@ -17,6 +21,20 @@
 
 .badgeList img {
   display: block;
+}
+
+.stackOverflow {
+  margin-bottom: 1rem;
+}
+
+.stackOverflowLabel {
+  margin-bottom: 0.5rem;
+}
+
+.stackOverflowBadge {
+  display: inline-block;
+  border-radius: 6px;
+  overflow: hidden;
 }
 
 .activity {

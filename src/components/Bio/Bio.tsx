@@ -17,10 +17,11 @@ export function Bio() {
           </li>
         ))}
       </ul>
-      <p>
-        <strong>StackOverflow:</strong>
-        <br />
-        <a href={stackOverflowFlair.profileUrl}>
+      <div className={styles.stackOverflow}>
+        <p className={styles.stackOverflowLabel}>
+          <strong>StackOverflow:</strong>
+        </p>
+        <a href={stackOverflowFlair.profileUrl} className={styles.stackOverflowBadge}>
           <img
             src={stackOverflowFlair.flairImageUrl}
             width={208}
@@ -28,7 +29,7 @@ export function Bio() {
             alt={stackOverflowFlair.alt}
           />
         </a>
-      </p>
+      </div>
       <p className={styles.activity}>
         <em>Check out my latest skills assessments, certifications, and writing below!</em>
       </p>

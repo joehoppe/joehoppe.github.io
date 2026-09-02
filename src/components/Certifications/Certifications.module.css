@@ -1,5 +1,9 @@
 .certifications {
-  margin-bottom: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+.certifications h2 {
+  margin-bottom: 1rem;
 }
 
 .table {
