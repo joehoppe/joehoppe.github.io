@@ -4,6 +4,7 @@ import {
   writingGroupOrder,
   type WritingEntry,
 } from '../../content/writing';
+import { ExternalLink } from '../ExternalLink/ExternalLink';
 import styles from './Writing.module.css';
 
 function EntryList({ entries }: { entries: WritingEntry[] }) {
@@ -11,7 +12,7 @@ function EntryList({ entries }: { entries: WritingEntry[] }) {
     <ul className={styles.entryList}>
       {entries.map((entry) => (
         <li key={entry.url} className={styles.entry}>
-          <a href={entry.url}>{entry.title}</a>
+          <ExternalLink href={entry.url}>{entry.title}</ExternalLink>
           <span className={styles.meta}>
             {' '}
             — {entry.source}

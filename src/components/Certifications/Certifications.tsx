@@ -1,4 +1,5 @@
 import { certifications } from '../../content/certifications';
+import { ExternalLink } from '../ExternalLink/ExternalLink';
 import styles from './Certifications.module.css';
 
 export function Certifications() {
@@ -19,14 +20,14 @@ export function Certifications() {
               <td>{cert.date}</td>
               <td>{cert.title}</td>
               <td className={styles.badgeCell}>
-                <a href={cert.link}>
+                <ExternalLink href={cert.link}>
                   <img
                     src={cert.badgeImage}
                     alt={cert.title}
                     style={{ maxWidth: cert.imageWidth }}
                     className={styles.badge}
                   />
-                </a>
+                </ExternalLink>
               </td>
             </tr>
           ))}

@@ -76,4 +76,14 @@ describe('Bio', () => {
     ).toHaveAttribute('href', 'https://stackoverflow.com/users/846844/hoppe');
     expect(container.textContent).not.toMatch(/StackOverflow:/);
   });
+
+  it('opens every link in a new tab', () => {
+    const { container } = render(<Bio />);
+    const links = Array.from(container.querySelectorAll('a'));
+    expect(links.length).toBeGreaterThan(0);
+    links.forEach((link) => {
+      expect(link).toHaveAttribute('target', '_blank');
+      expect(link).toHaveAttribute('rel', 'noopener noreferrer');
+    });
+  });
 });

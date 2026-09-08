@@ -19,4 +19,13 @@ describe('Nav', () => {
     const labels = screen.getAllByRole('link').map((link) => link.textContent);
     expect(labels).toEqual(['About', 'Projects', 'Writing', 'Certifications']);
   });
+
+  it('keeps the jump links in the same tab', () => {
+    const { container } = render(<Nav />);
+    const links = Array.from(container.querySelectorAll('a'));
+    expect(links.length).toBeGreaterThan(0);
+    links.forEach((link) => {
+      expect(link).not.toHaveAttribute('target');
+    });
+  });
 });

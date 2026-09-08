@@ -1,4 +1,5 @@
 import { projects } from '../../content/projects';
+import { ExternalLink } from '../ExternalLink/ExternalLink';
 import styles from './Projects.module.css';
 
 export function Projects() {
@@ -9,12 +10,12 @@ export function Projects() {
         {projects.map((project) => (
           <li key={project.repoUrl} className={styles.card}>
             <h3 className={styles.name}>
-              <a href={project.repoUrl}>{project.name}</a>
+              <ExternalLink href={project.repoUrl}>{project.name}</ExternalLink>
             </h3>
             <p className={styles.summary}>{project.summary}</p>
             <p className={styles.stack}>{project.stack}</p>
             <p className={styles.repo}>
-              <a href={project.repoUrl}>{project.repoLabel}</a>
+              <ExternalLink href={project.repoUrl}>{project.repoLabel}</ExternalLink>
             </p>
           </li>
         ))}

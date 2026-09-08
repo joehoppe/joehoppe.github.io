@@ -18,4 +18,14 @@ describe('Certifications', () => {
       'https://www.credly.com/badges/02a09a00-d05a-4722-8e4a-1c17f270747f'
     );
   });
+
+  it('opens every credential link in a new tab', () => {
+    const { container } = render(<Certifications />);
+    const links = Array.from(container.querySelectorAll('a'));
+    expect(links.length).toBeGreaterThan(0);
+    links.forEach((link) => {
+      expect(link).toHaveAttribute('target', '_blank');
+      expect(link).toHaveAttribute('rel', 'noopener noreferrer');
+    });
+  });
 });

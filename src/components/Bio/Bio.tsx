@@ -1,4 +1,5 @@
 import { socialLinks, stackOverflowFlair } from '../../content/links';
+import { ExternalLink } from '../ExternalLink/ExternalLink';
 import styles from './Bio.module.css';
 
 const profileLinks = socialLinks.filter((link) => link.group === 'profile');
@@ -22,9 +23,9 @@ export function Bio() {
       <ul className={styles.badgeList}>
         {profileLinks.map((link) => (
           <li key={link.label}>
-            <a href={link.url}>
+            <ExternalLink href={link.url}>
               <img src={link.badgeUrl} alt={link.label} />
-            </a>
+            </ExternalLink>
           </li>
         ))}
       </ul>
@@ -32,20 +33,20 @@ export function Bio() {
         <ul className={styles.badgeList}>
           {writingLinks.map((link) => (
             <li key={link.label}>
-              <a href={link.url}>
+              <ExternalLink href={link.url}>
                 <img src={link.badgeUrl} alt={link.label} />
-              </a>
+              </ExternalLink>
             </li>
           ))}
         </ul>
-        <a href={stackOverflowFlair.profileUrl} className={styles.stackOverflowBadge}>
+        <ExternalLink href={stackOverflowFlair.profileUrl} className={styles.stackOverflowBadge}>
           <img
             src={stackOverflowFlair.flairImageUrl}
             width={208}
             height={58}
             alt={stackOverflowFlair.alt}
           />
-        </a>
+        </ExternalLink>
       </div>
     </section>
   );

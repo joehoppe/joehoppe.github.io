@@ -25,4 +25,14 @@ describe('Projects', () => {
     render(<Projects />);
     expect(screen.getByText(/monitors claude code usage quota in real time/i)).toBeInTheDocument();
   });
+
+  it('opens every link in a new tab', () => {
+    const { container } = render(<Projects />);
+    const links = Array.from(container.querySelectorAll('a'));
+    expect(links.length).toBeGreaterThan(0);
+    links.forEach((link) => {
+      expect(link).toHaveAttribute('target', '_blank');
+      expect(link).toHaveAttribute('rel', 'noopener noreferrer');
+    });
+  });
 });

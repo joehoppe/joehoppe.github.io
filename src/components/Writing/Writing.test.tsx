@@ -45,4 +45,14 @@ describe('Writing', () => {
     expect(details).not.toHaveAttribute('open');
     expect(details?.querySelector('summary')?.textContent).toContain('Older highlights');
   });
+
+  it('opens every entry link in a new tab', () => {
+    const { container } = render(<Writing />);
+    const links = Array.from(container.querySelectorAll('a'));
+    expect(links.length).toBeGreaterThan(0);
+    links.forEach((link) => {
+      expect(link).toHaveAttribute('target', '_blank');
+      expect(link).toHaveAttribute('rel', 'noopener noreferrer');
+    });
+  });
 });
