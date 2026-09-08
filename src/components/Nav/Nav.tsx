@@ -2,8 +2,9 @@ import styles from './Nav.module.css';
 
 const sections = [
   { id: 'bio', label: 'About' },
-  { id: 'certifications', label: 'Certifications' },
+  { id: 'projects', label: 'Projects' },
   { id: 'writing', label: 'Writing' },
+  { id: 'certifications', label: 'Certifications' },
 ];
 
 export function Nav() {

@@ -1,6 +1,12 @@
 .nav {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  /* Opaque so section content scrolls behind the nav rather than through it. */
+  background-color: #1c1c1c;
   border-bottom: 1px solid #333;
   margin-bottom: 0.5rem;
+  padding-top: 0.5rem;
   padding-bottom: 0.5rem;
 }
 

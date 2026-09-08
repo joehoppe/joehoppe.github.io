@@ -1,7 +1,8 @@
 import { Nav } from './components/Nav/Nav';
 import { Bio } from './components/Bio/Bio';
-import { Certifications } from './components/Certifications/Certifications';
+import { Projects } from './components/Projects/Projects';
 import { Writing } from './components/Writing/Writing';
+import { Certifications } from './components/Certifications/Certifications';
 
 export default function App() {
   return (
@@ -9,8 +10,9 @@ export default function App() {
       <Nav />
       <main>
         <Bio />
-        <Certifications />
+        <Projects />
         <Writing />
+        <Certifications />
       </main>
     </>
   );

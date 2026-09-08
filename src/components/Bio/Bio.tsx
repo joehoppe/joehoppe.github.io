@@ -1,15 +1,26 @@
 import { socialLinks, stackOverflowFlair } from '../../content/links';
 import styles from './Bio.module.css';
 
+const profileLinks = socialLinks.filter((link) => link.group === 'profile');
+const writingLinks = socialLinks.filter((link) => link.group === 'writing');
+
 export function Bio() {
   return (
     <section id="bio" className={styles.bio}>
-      <h1>Backend Developer</h1>
+      <h1>Joseph Hoppe</h1>
+      <p className={styles.subhead}>Senior Backend Engineer</p>
+      <p className={styles.locator}>Ramsey, NJ</p>
       <p className={styles.tagline}>
-        Short personal hub: blog posts, skills badges, and links to my profiles.
+        15+ years building event-driven, serverless backends on AWS — Python, TypeScript, and
+        Node.js. Lately that includes production LLM integration: Claude API, LangChain, and
+        agentic developer workflows.
+      </p>
+      <p className={styles.orientation}>
+        A short personal hub: open-source projects, writing on AI and AWS, certifications, and
+        links to my profiles.
       </p>
       <ul className={styles.badgeList}>
-        {socialLinks.map((link) => (
+        {profileLinks.map((link) => (
           <li key={link.label}>
             <a href={link.url}>
               <img src={link.badgeUrl} alt={link.label} />
@@ -17,10 +28,16 @@ export function Bio() {
           </li>
         ))}
       </ul>
-      <div className={styles.stackOverflow}>
-        <p className={styles.stackOverflowLabel}>
-          <strong>StackOverflow:</strong>
-        </p>
+      <div className={styles.writingRow}>
+        <ul className={styles.badgeList}>
+          {writingLinks.map((link) => (
+            <li key={link.label}>
+              <a href={link.url}>
+                <img src={link.badgeUrl} alt={link.label} />
+              </a>
+            </li>
+          ))}
+        </ul>
         <a href={stackOverflowFlair.profileUrl} className={styles.stackOverflowBadge}>
           <img
             src={stackOverflowFlair.flairImageUrl}
@@ -30,9 +47,6 @@ export function Bio() {
           />
         </a>
       </div>
-      <p className={styles.activity}>
-        <em>Check out my latest skills assessments, certifications, and writing below!</em>
-      </p>
     </section>
   );
 }

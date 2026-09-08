@@ -1,23 +1,52 @@
-import { writingEntries, writingYearOrder } from '../../content/writing';
+import {
+  collapsedGroup,
+  writingEntries,
+  writingGroupOrder,
+  type WritingEntry,
+} from '../../content/writing';
 import styles from './Writing.module.css';
+
+function EntryList({ entries }: { entries: WritingEntry[] }) {
+  return (
+    <ul className={styles.entryList}>
+      {entries.map((entry) => (
+        <li key={entry.url} className={styles.entry}>
+          <a href={entry.url}>{entry.title}</a>
+          <span className={styles.meta}>
+            {' '}
+            — {entry.source}
+            {entry.year ? `, ${entry.year}` : ''}
+          </span>
+          {entry.takeaway && <p className={styles.takeaway}>{entry.takeaway}</p>}
+        </li>
+      ))}
+    </ul>
+  );
+}
 
 export function Writing() {
   return (
     <section id="writing" className={styles.writing}>
       <h2>Writing</h2>
-      {writingYearOrder.map((year) => {
-        const entries = writingEntries.filter((entry) => entry.year === year);
+      {writingGroupOrder.map((group) => {
+        const entries = writingEntries.filter((entry) => entry.group === group);
         if (entries.length === 0) return null;
+
+        if (group === collapsedGroup) {
+          return (
+            <details key={group} className={styles.archive}>
+              <summary className={styles.archiveSummary}>
+                {group} ({entries.length})
+              </summary>
+              <EntryList entries={entries} />
+            </details>
+          );
+        }
+
         return (
-          <div key={year} className={styles.yearGroup}>
-            <h3>{year}</h3>
-            <ul>
-              {entries.map((entry) => (
-                <li key={entry.url}>
-                  <a href={entry.url}>{entry.title}</a> — {entry.source}
-                </li>
-              ))}
-            </ul>
+          <div key={group} className={styles.group}>
+            <h3>{group}</h3>
+            <EntryList entries={entries} />
           </div>
         );
       })}

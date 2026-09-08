@@ -6,8 +6,33 @@
   margin-bottom: 0.25rem;
 }
 
-.tagline {
+.subhead {
+  color: #e6e6e6;
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.locator {
   color: #b0b0b0;
+  font-size: 0.95rem;
+  margin-bottom: 0.75rem;
+}
+
+.tagline {
+  max-width: 62ch;
+}
+
+/*
+ * Orients a visitor to what the page holds. Muted and sized down so it reads as a
+ * caption under the tagline rather than competing with it, and placed here because it
+ * ends by promising the profile links that follow immediately below.
+ */
+.orientation {
+  color: #b0b0b0;
+  font-size: 0.95rem;
+  max-width: 62ch;
+  margin-top: 0.5rem;
 }
 
 .badgeList {
@@ -23,20 +48,42 @@
   display: block;
 }
 
-.stackOverflow {
+/*
+ * Medium and DEV.to are where the writing.ts entries are published, so they sit with
+ * the Stack Overflow flair. Centering matters here: the flair is roughly twice the
+ * height of a shields.io badge.
+ */
+.writingRow {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
   margin-bottom: 1rem;
 }
 
-.stackOverflowLabel {
-  margin-bottom: 0.5rem;
+.writingRow .badgeList {
+  margin: 0;
 }
 
+/*
+ * The flair image is a light card on a dark page, so at full size and opacity it
+ * outweighs every other link here. Hold it back until someone looks at it.
+ */
 .stackOverflowBadge {
   display: inline-block;
   border-radius: 6px;
   overflow: hidden;
+  opacity: 0.62;
+  transition: opacity 150ms ease;
 }
 
-.activity {
-  color: #b0b0b0;
+.stackOverflowBadge:hover,
+.stackOverflowBadge:focus-visible {
+  opacity: 1;
+}
+
+.stackOverflowBadge img {
+  display: block;
+  width: 156px;
+  height: auto;
 }

@@ -1,0 +1,50 @@
+.projects {
+  margin-bottom: 1.5rem;
+}
+
+.list {
+  display: grid;
+  gap: 1rem;
+  list-style: none;
+  margin: 0.75rem 0 0;
+  padding: 0;
+}
+
+.card {
+  border: 1px solid #333;
+  border-radius: 8px;
+  padding: 1rem;
+}
+
+.name {
+  font-size: 1.05rem;
+  margin-bottom: 0.35rem;
+}
+
+.name a {
+  text-decoration: none;
+}
+
+.name a:hover {
+  text-decoration: underline;
+}
+
+.summary {
+  margin-bottom: 0.5rem;
+}
+
+.stack {
+  color: #b0b0b0;
+  font-size: 0.9rem;
+  margin-bottom: 0.35rem;
+}
+
+.repo {
+  font-size: 0.9rem;
+}
+
+@media (min-width: 640px) {
+  .list {
+    grid-template-columns: 1fr 1fr;
+  }
+}
