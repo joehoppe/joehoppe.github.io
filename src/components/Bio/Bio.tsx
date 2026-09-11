@@ -12,9 +12,10 @@ export function Bio() {
       <p className={styles.subhead}>Senior Backend Engineer</p>
       <p className={styles.locator}>Ramsey, NJ</p>
       <p className={styles.tagline}>
-        15+ years building event-driven, serverless backends on AWS — Python, TypeScript, and
-        Node.js. Lately that includes production LLM integration: Claude API, LangChain, and
-        agentic developer workflows.
+        15+ years building backend systems, most recently event-driven and serverless on AWS —
+        Python, TypeScript, and Node.js. Lately I lead AI adoption on my team: Claude, LangChain,
+        and agentic developer workflows that cut delivery time and improved lead processing
+        efficiency by 20%.
       </p>
       <p className={styles.orientation}>
         A short personal hub: open-source projects, writing on AI and AWS, certifications, and

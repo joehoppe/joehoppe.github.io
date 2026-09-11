@@ -37,7 +37,9 @@ describe('Bio', () => {
 
   it('renders the positioning tagline', () => {
     render(<Bio />);
-    expect(screen.getByText(/15\+ years building event-driven, serverless backends/)).toBeInTheDocument();
+    expect(
+      screen.getByText(/15\+ years building backend systems, most recently event-driven/)
+    ).toBeInTheDocument();
   });
 
   it('renders each social link with its correct URL', () => {

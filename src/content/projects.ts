@@ -10,8 +10,8 @@ export const projects: Project[] = [
   {
     name: 'Usage Dashboard for Claude',
     summary:
-      'Monitors Claude Code usage quota in real time from the desktop, so you can see where you stand against your limits without leaving your machine. Built in Python and packaged cross-platform for macOS and Windows, with background polling, TOML-based configuration, and an on-demand refresh that queries the Claude API directly.',
-    stack: 'Python · Claude API · macOS/Windows packaging',
+      "Monitors Claude Code usage quota in real time from the desktop, so you can see where you stand against your limits without leaving your machine. Built in Python and packaged cross-platform for macOS and Windows, with background polling, a TOML-based configuration system, and an on-demand refresh. It reads the local Claude Desktop JSON and shells out to the Claude Code CLI's usage command, so it reports against your real quota without needing an API key of its own.",
+    stack: 'Python · Claude Code CLI · macOS/Windows packaging',
     repoUrl: 'https://github.com/joehoppe/usage-dashboard-for-claude',
     repoLabel: 'joehoppe/usage-dashboard-for-claude',
   },
