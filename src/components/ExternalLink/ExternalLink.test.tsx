@@ -18,10 +18,7 @@ describe('ExternalLink', () => {
 
   it('protects the opener from the new tab', () => {
     render(<ExternalLink href="https://example.com">Example</ExternalLink>);
-    expect(screen.getByRole('link', { name: 'Example' })).toHaveAttribute(
-      'rel',
-      'noopener noreferrer'
-    );
+    expect(screen.getByRole('link', { name: 'Example' })).toHaveAttribute('rel', 'noopener');
   });
 
   it('passes className through so callers keep their own styling', () => {

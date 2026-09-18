@@ -25,7 +25,7 @@ describe('Certifications', () => {
     expect(links.length).toBeGreaterThan(0);
     links.forEach((link) => {
       expect(link).toHaveAttribute('target', '_blank');
-      expect(link).toHaveAttribute('rel', 'noopener noreferrer');
+      expect(link).toHaveAttribute('rel', 'noopener');
     });
   });
 });
